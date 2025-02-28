@@ -1,3 +1,7 @@
+## Project Preview
+
+Check out the live Preview of the game Click Here 👉🏻 👉🏻 [Link here](https://guessnmbergame.netlify.app/).
+
 Guess the Number Game
 Welcome to the Guess the Number Game! This is a simple and fun web-based game where you try to guess a randomly generated number within a specified range.
 It's a great way to practice your web development skills and have some fun!
